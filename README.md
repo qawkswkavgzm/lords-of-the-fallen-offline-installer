@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+A vast world awaits in the medieval, dark fantasy action-RPG, Lords of the Fallen. As a fabled Dark Crusader, embark on an epic quest to overthrow Adyr, the demon God. The final major update Version 2.5 is out now: features deadlier boss battles and all-new Veteran Mode.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 64bit | macOS 11.0 or later |
+| **Processor** | Min: intel i5 8400 | AMD Ryzen 5 2600 / Rec: intel i7 8700 | AMD Ryzen 5 3600 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 12 GB RAM / Rec: 16 GB RAM | 12 GB RAM |
+| **Graphics** | Min: 6GBs VRAM | NVIDIA GTX-1060 | AMD Radeon RX 590 / Rec: 8GBs VRAM | NVIDIA RTX-2080 | AMD Radeon RX 6700 | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 45 GB available space | 45 GB available space |
+| **Additional Notes** | Min: 720p Low Quality Settings (30FPS) | SSD (Preferred) | H… / Rec: 1080p High Quality Settings (60FPS) | SSD Required | 720p Low Quality Settings (30FPS) | SSD (Preferred) | H… |
 
 ---
 
